@@ -7,6 +7,7 @@ from decimal import Decimal
 
 from core import models
 
+
 class ModelTests(TestCase):
     """Test models."""
 
